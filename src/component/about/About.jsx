@@ -35,8 +35,8 @@ const About = () => {
             </article>
           </div>
           <p>
-          Seek challenging opportunities where I can fully manipulate my skills and to create myselt an
-          environment which encourages me to succeed and grow professionally, to use my distinctive gualities 
+          Seek challenging opportunities where I can fully manipulate my skills and to create myself an
+          environment which encourages me to succeed and grow professionally, to use my distinctive qualities 
           to bring the best of me.
           </p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
